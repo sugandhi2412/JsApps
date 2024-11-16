@@ -6,4 +6,5 @@ function greet(name) {
   }
   
   // Call the function 
-  greet("World");
+  greet("World 2.0");
+  
